@@ -6,7 +6,7 @@
 🔭 Currently exploring applied ML (computer vision, feature engineering, neural networks) and gameD
 🌱 Recently trained a classical ML classifier from ~65% to ~92% accuracy through custom feature engineering
 ⚡ Interests: game development, computer vision, embedded systems, autonomous systems
-📫 Reach me: benjaminkleger03@gmail.com | LinkedIn
+📫 Reach me: benjaminkleger03@gmail.com | [LinkedIn](https://www.linkedin.com/in/benjamin-kleger-1a2565352/)
 
 
 
