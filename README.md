@@ -9,28 +9,27 @@
 #### 📫 Reach me: benjaminkleger03@gmail.com | [LinkedIn](https://www.linkedin.com/in/benjamin-kleger-1a2565352/)
 
 
-
 ### Featured Projects
-
-Lego Brick Image Classifier
-Multi-class logistic regression classifier built from scratch with custom image feature engineering. Used sequential feature selection and cross-validation to show only 3 of 11 engineered features were needed to reach 91.6% test accuracy (up from 64.8%).
-Python scikit-learn feature engineering
-
-Autonomous Line-Following PiCar
-Trained a 5-layer neural network (427K parameters) to predict steering angle from camera input for an RC car. Good validation performance highlighted the gap between offline metrics and real-world robustness — a useful lesson in sim-to-real limitations.
-Python TensorFlow/Keras CNNs
-
-Humanized Plant
-Conversational AI + embedded systems project — integrated an LLM, speech-to-text/text-to-speech, and live sensor data on a Raspberry Pi. Led system architecture and UML/sequence diagram design for a 6-person team.
-Python Raspberry Pi LLM integration
 
 Turn-Based Card Strategy Game Engine
 Modular, data-driven game engine in Godot supporting card-based combat, AI enemy behavior, procedural encounter generation, and a scalable content system.
 Godot GDScript
 
 Food Delivery Platform
-Full-stack food delivery app built with a 4-engineer team — RESTful API endpoints, Dockerized multi-service architecture, and an Agile GitHub workflow.
+Full-stack food delivery app built with a 4-engineer team. RESTful API endpoints, Dockerized multi-service architecture, and an Agile GitHub workflow.
 REST APIs Docker Agile
+
+Lego Brick Image Classifier
+Multi-class logistic regression classifier built from scratch with custom image feature engineering. Used sequential feature selection and cross-validation to show only 3 of 11 engineered features were needed to reach 91.6% test accuracy (up from 64.8%).
+Python scikit-learn feature engineering
+
+Autonomous Line-Following PiCar
+Trained a 5-layer neural network (427K parameters) to predict steering angle from camera input for an RC car. Good validation performance highlighted the gap between offline metrics and real-world robustness, a useful lesson in sim-to-real limitations.
+Python TensorFlow/Keras CNNs
+
+Humanized Plant
+Conversational AI + embedded systems project. Integrated an LLM, speech-to-text/text-to-speech, and live sensor data on a Raspberry Pi. Led system architecture and UML/sequence diagram design for a 5-person team.
+Python Raspberry Pi LLM integration
 
 
 ### Languages & Tools
