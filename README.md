@@ -3,10 +3,10 @@
 ### Fourth-year Computer Engineering student at UBC Okanagan (grad. April 2027), building things at the intersection of software systems, machine learning, and games.
 
 
-🔭 Currently exploring applied ML (computer vision, feature engineering, neural networks) and gameD
-🌱 Recently trained a classical ML classifier from ~65% to ~92% accuracy through custom feature engineering
-⚡ Interests: game development, computer vision, embedded systems, autonomous systems
-📫 Reach me: benjaminkleger03@gmail.com | [LinkedIn](https://www.linkedin.com/in/benjamin-kleger-1a2565352/)
+#### 🔭 Currently exploring applied ML (computer vision, feature engineering, neural networks) and game development
+#### 🌱 Recently trained a classical ML classifier from ~65% to ~92% accuracy through custom feature engineering
+#### ⚡ Interests: game development, computer vision, embedded systems, autonomous systems
+#### 📫 Reach me: benjaminkleger03@gmail.com | [LinkedIn](https://www.linkedin.com/in/benjamin-kleger-1a2565352/)
 
 
 
