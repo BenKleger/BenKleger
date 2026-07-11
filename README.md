@@ -28,7 +28,7 @@ Trained a 5-layer neural network (427K parameters) to predict steering angle fro
 Python TensorFlow/Keras CNNs
 
 Humanized Plant
-Conversational AI + embedded systems project. Integrated an LLM, speech-to-text/text-to-speech, and live sensor data on a Raspberry Pi. Led system architecture and UML/sequence diagram design for a 5-person team.
+Conversational AI + embedded systems project. Integrated an LLM, speech-to-text/text-to-speech, and live sensor data on a Raspberry Pi. Led system architecture and UML/sequence diagram design for a 6-person team.
 Python Raspberry Pi LLM integration
 
 
