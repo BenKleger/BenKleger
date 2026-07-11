@@ -1,6 +1,6 @@
-##Hi there, I'm Ben 👋
+## Hi there, I'm Ben 👋
 
-###Fourth-year Computer Engineering student at UBC Okanagan (grad. April 2027), building things at the intersection of software systems, machine learning, and games.
+### Fourth-year Computer Engineering student at UBC Okanagan (grad. April 2027), building things at the intersection of software systems, machine learning, and games.
 
 
 🔭 Currently exploring applied ML (computer vision, feature engineering, neural networks) and gameD
@@ -10,7 +10,7 @@
 
 
 
-###Featured Projects
+### Featured Projects
 
 Lego Brick Image Classifier
 Multi-class logistic regression classifier built from scratch with custom image feature engineering. Used sequential feature selection and cross-validation to show only 3 of 11 engineered features were needed to reach 91.6% test accuracy (up from 64.8%).
@@ -33,18 +33,8 @@ Full-stack food delivery app built with a 4-engineer team — RESTful API endpoi
 REST APIs Docker Agile
 
 
-🛠️ Languages & Tools
+### Languages & Tools
 
 Python C C++ Java SystemVerilog GDScript
 scikit-learn TensorFlow/Keras NumPy/Pandas
 Git/GitHub Docker SolidWorks Raspberry Pi
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
